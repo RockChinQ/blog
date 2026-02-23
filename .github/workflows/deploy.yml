@@ -11,12 +11,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: recursive
           
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.124.1'
+          hugo-version: '0.140.0'
           extended: true
           
       - name: Setup Node
@@ -26,7 +26,8 @@ jobs:
           
       - name: Install theme
         run: |
-          git clone https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
+          rm -rf themes/ananke
+          git clone --depth 1 --branch v2.27.0 https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
           
       - name: Build
         run: hugo --minify

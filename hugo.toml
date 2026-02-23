@@ -7,6 +7,8 @@ theme = 'ananke'
   author = 'RockChinQ'
   description = 'Thinking complicates, doing simplifies.'
   github = 'https://github.com/RockChinQ'
+  featured_image = '/images/default.jpg'
+  recent_posts_number = 10
 
 [menu]
   [[menu.main]]
@@ -17,3 +19,7 @@ theme = 'ananke'
     name = 'Posts'
     url = '/posts/'
     weight = 20
+  [[menu.main]]
+    name = 'GitHub'
+    url = 'https://github.com/RockChinQ'
+    weight = 30
