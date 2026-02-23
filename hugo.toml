@@ -1,0 +1,19 @@
+baseURL = 'https://blog.rockchin.top'
+languageCode = 'zh-CN'
+title = "RockChinQ's Blog"
+theme = 'ananke'
+
+[params]
+  author = 'RockChinQ'
+  description = 'Thinking complicates, doing simplifies.'
+  github = 'https://github.com/RockChinQ'
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
