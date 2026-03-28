@@ -1,25 +1,61 @@
-baseURL = 'https://blog.rockchin.top'
-languageCode = 'zh-CN'
-title = "RockChinQ's Blog"
-theme = 'ananke'
+baseURL = "https://rockchin.top"
+languageCode = "zh-CN"
+defaultContentLanguage = "zh-cn"
+title = "RockChinQ"
+theme = "hello-friend-ng"
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+canonifyURLs = true
+enableRobotsTXT = true
+enableEmoji = true
+
+[pagination]
+  pagerSize = 20
+
+[taxonomies]
+  tag = "tags"
 
 [params]
-  author = 'RockChinQ'
-  description = 'Thinking complicates, doing simplifies.'
-  github = 'https://github.com/RockChinQ'
-  featured_image = '/images/default.jpg'
-  recent_posts_number = 10
+  dateform = "Jan 2, 2006"
+  dateformShort = "Jan 2"
+  dateformNum = "2006-01-02"
+
+  description = "Thinking complicates, doing simplifies."
+  homeSubtitle = "Thinking complicates, doing simplifies."
+
+  disableReadOtherPosts = false
+  enableSharingButtons = false
+  enableThemeToggle = true
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/RockChinQ"
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://x.com/AirFreshenerQ"
+
+  [[params.social]]
+    name = "email"
+    url = "mailto:rockchinq@gmail.com"
+
+[languages]
+  [languages.zh-cn]
+    weight = 1
+    copyright = '© {year} RockChinQ'
+  [languages.zh-cn.params]
+    subtitle = "Thinking complicates, doing simplifies."
 
 [menu]
   [[menu.main]]
-    name = 'Home'
-    url = '/'
+    identifier = "posts"
+    name = "Archive"
+    url = "posts/"
     weight = 10
   [[menu.main]]
-    name = 'Posts'
-    url = '/posts/'
+    identifier = "tags"
+    name = "Tags"
+    url = "tags/"
     weight = 20
-  [[menu.main]]
-    name = 'GitHub'
-    url = 'https://github.com/RockChinQ'
-    weight = 30
