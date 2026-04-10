@@ -2,12 +2,8 @@ baseURL = "https://rockchin.top"
 languageCode = "zh-CN"
 defaultContentLanguage = "zh-cn"
 title = "RockChinQ"
-theme = "hello-friend-ng"
-
-PygmentsCodeFences = true
-PygmentsStyle = "monokai"
-
-canonifyURLs = true
+theme = "paper"
+enableInlineShortcodes = true
 enableRobotsTXT = true
 enableEmoji = true
 
@@ -18,40 +14,33 @@ enableEmoji = true
   tag = "tags"
 
 [params]
-  dateform = "Jan 2, 2006"
-  dateformShort = "Jan 2"
-  dateformNum = "2006-01-02"
+  color = 'linen'
+  github = 'RockChinQ'
+  avatar = 'rockchinq@gmail.com'
+  name = 'Rock'
+  bio = 'Thinking complicates, doing simplifies.'
 
-  description = "Thinking complicates, doing simplifies."
-  homeSubtitle = "Thinking complicates, doing simplifies."
-
-  disableReadOtherPosts = false
-  enableSharingButtons = false
-  enableThemeToggle = true
-
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/RockChinQ"
-
-  [[params.social]]
-    name = "email"
-    url = "mailto:rockchinq@gmail.com"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "monokai"
+    lineNos = false
 
 [languages]
   [languages.zh-cn]
     weight = 1
     copyright = '© {year} RockChinQ'
-  [languages.zh-cn.params]
-    subtitle = "Thinking complicates, doing simplifies."
 
 [menu]
   [[menu.main]]
     identifier = "posts"
-    name = "Archive"
+    name = "归档"
     url = "posts/"
     weight = 10
   [[menu.main]]
     identifier = "tags"
-    name = "Tags"
+    name = "标签"
     url = "tags/"
     weight = 20
