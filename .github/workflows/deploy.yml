@@ -19,16 +19,6 @@ jobs:
           hugo-version: '0.140.0'
           extended: true
           
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          
-      - name: Install theme
-        run: |
-          rm -rf themes/ananke
-          git clone --depth 1 --branch v2.27.0 https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
-          
       - name: Build
         run: hugo --minify
         
