@@ -14,14 +14,11 @@ Zig 在上半年刚刚 builtin 了 http
 
 参考：
 
-[https://zigbyexample.github.io/read_write_file](https://zigbyexample.github.io/read_write_file){data-type="link"
-data-id="https://zigbyexample.github.io/read_write_file"}
+[https://zigbyexample.github.io/read_write_file](https://zigbyexample.github.io/read_write_file)
 
-[https://zigbyexample.github.io/http-client](https://zigbyexample.github.io/http-client){data-type="link"
-data-id="https://zigbyexample.github.io/http-client"}
+[https://zigbyexample.github.io/http-client](https://zigbyexample.github.io/http-client)
 
-当然还有[官方文档](https://ziglang.org/documentation/master/std/#A;std:http.Client){data-type="link"
-data-id="https://ziglang.org/documentation/master/std/#A;std:http.Client"}
+当然还有[官方文档](https://ziglang.org/documentation/master/std/#A;std:http.Client)
 
 本来还有问了GPT的，但是GPT生成的答案完全就是错的（21年还没有 builtin
 http client）。

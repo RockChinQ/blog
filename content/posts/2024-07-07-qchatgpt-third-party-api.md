@@ -9,8 +9,7 @@ draft: false
 平台等各种 AI 工具的访问格式，本文介绍如何将上述的支持 OpenAI
 格式的接口接入 QChatGPT。
 
-首先我们先按照 [QChatGPT 的文档](https://q.rkcn.top){data-type="link"
-data-id="https://q.rkcn.top"}，部署好 消息平台、QChatGPT
+首先我们先按照 [QChatGPT 的文档](https://q.rkcn.top)，部署好 消息平台、QChatGPT
 主程序，并将其连接上，进行到 provider.json 配置这一步时，看此文档。
 
 以下我们不再区分 LinkAI、OneAPI、中转站，统一以 OneAPI接口 代指

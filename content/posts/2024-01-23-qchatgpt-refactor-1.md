@@ -19,7 +19,7 @@ draft: false
 
 目前删除了原启动流程的以下步骤：配置线程池（线程池将被移除）、要求用户从stdin输入未设置的admin_qq（现在只会以warning级别告诉用户未设置管理员）、暂时删除对urllib的警告的禁用、已移除upgrade_dependencies对应的操作
 
-已修改表现行为的原启动流程的以下步骤：日志现在不再设置到logging模块的默认logger，而是设置一个名为qcg的logger（日志记录方均暂未修改，使用默认logger现在将在前方标记\[DEPR\]）；对openai库设置的正向/反向代理均移至openai.manager模块；插件初始化操作放在application的run方法中。
+已修改表现行为的原启动流程的以下步骤：日志现在不再设置到logging模块的默认logger，而是设置一个名为qcg的logger（日志记录方均暂未修改，使用默认logger现在将在前方标记[DEPR]）；对openai库设置的正向/反向代理均移至openai.manager模块；插件初始化操作放在application的run方法中。
 
 暂未确定实现形式的原启动流程步骤：热重载流程、IM
 连接状态（异常处理）暂未实现、赞赏码（暂定删除赞赏码功能）、检查更新、检查公告（这两个原则上不应影响启动（网络问题））。

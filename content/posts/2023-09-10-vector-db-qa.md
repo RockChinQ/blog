@@ -19,8 +19,7 @@ OpenAI 的 GPT 模型生成自然语言回复。
 ## 实现
 
 -   负责沟通 QQ
-    等消息平台：[https://github.com/RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT){data-type="link"
-    data-id="https://github.com/RockChinQ/QChatGPT"}
+    等消息平台：[https://github.com/RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT)
 -   QChatGPT 插件，用户接收问题并从 llm-embed-qa
     接口获取回复：<https://github.com/RockChinQ/AnsweringPlugin>
 -   用于处理文档向量值并组织数据库，开放接口供插件调用：<https://github.com/RockChinQ/llm-embed-qa>

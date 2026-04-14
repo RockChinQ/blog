@@ -13,8 +13,7 @@ draft: false
 参考：
 
 -   [Rocky
-    Linux安装Docker和Compose](https://juejin.cn/post/7137650621426958349){data-type="link"
-    data-id="https://juejin.cn/post/7137650621426958349"}
+    Linux安装Docker和Compose](https://juejin.cn/post/7137650621426958349)
 
 ## 准备工作
 

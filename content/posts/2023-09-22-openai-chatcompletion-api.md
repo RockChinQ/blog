@@ -4,9 +4,7 @@ date: 2023-09-22
 draft: false
 ---
 
-最近在实现一个[新的项目](https://github.com/RockChinQ/free-one-api){rel="noreferrer noopener"
-data-type="link" data-id="https://github.com/RockChinQ/free-one-api"
-target="_blank"}，涉及到 OpenAI
+最近在实现一个[新的项目](https://github.com/RockChinQ/free-one-api)，涉及到 OpenAI
 协议的封装和实现，于是研究了一下相关API的细节。
 
 此文中使用的框架是 quart ，此框架以异步优先的风格实现了 flask 框架的

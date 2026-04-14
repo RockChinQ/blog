@@ -8,8 +8,7 @@ draft: false
 上用了。看到其他项目也支持k8s，自己也得支持支持。关键是十几台服务器上面跑的各种服务实在是有点复杂，管不过来了，需要个集群工具来运行。
 
 先安装
-kubeadm，官方教程里有的：[官方教程](https://kubernetes.io/zh-cn/docs/setup/production-environment/tools/kubeadm/install-kubeadm/){target="_blank"
-rel="noreferrer noopener"}
+kubeadm，官方教程里有的：[官方教程](https://kubernetes.io/zh-cn/docs/setup/production-environment/tools/kubeadm/install-kubeadm/)
 
 今天先去 vultr 买了个临时的服务器来试试水。买的是 4c16g
 的配置，这个有点坑啊，买了之后启动才发现是 8g物理+8g
@@ -20,8 +19,7 @@ swap\...。系统装的是 debian 12。
 ![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/08/image.png)
 
 参考了另外一个教程来配置好了
-containerd：[https://k8s.huweihuang.com/project/runtime/containerd/install-containerd](https://k8s.huweihuang.com/project/runtime/containerd/install-containerd){target="_blank"
-rel="noreferrer noopener"}
+containerd：[https://k8s.huweihuang.com/project/runtime/containerd/install-containerd](https://k8s.huweihuang.com/project/runtime/containerd/install-containerd)
 
 这里很关键的一点，就是最后一定要把 containerd 的 Cgroup 改成
 systemd，具体方法就是在配置里把 SystemdCgroup 设为 true。不然后续是没法
@@ -64,8 +62,7 @@ nano /var/lib/kubelet/kubeadm-flags.env
 ![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/08/image-4.png)
 
 成功初始化，接着按照 Calico
-的教程配置一下网络组件：[https://docs.tigera.io/calico/latest/getting-started/kubernetes/quickstart](https://docs.tigera.io/calico/latest/getting-started/kubernetes/quickstart){target="_blank"
-rel="noreferrer noopener"}
+的教程配置一下网络组件：[https://docs.tigera.io/calico/latest/getting-started/kubernetes/quickstart](https://docs.tigera.io/calico/latest/getting-started/kubernetes/quickstart)
 
 ![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/08/image-5.png)
 
