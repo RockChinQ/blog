@@ -57,7 +57,7 @@ gpt4free 渠道，这个渠道不需要鉴权，只是相对比较慢。
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2023/10/image-1024x677.png){.wp-image-146
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2023/10/image.png){.wp-image-146
 style="aspect-ratio:1.5125553914327918;width:456px;height:auto"}
 
 \\n\\n\\n\\n
@@ -70,12 +70,12 @@ style="aspect-ratio:1.5125553914327918;width:456px;height:auto"}
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2023/10/image-1.png){.wp-image-147
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2023/10/image-1.png){.wp-image-147
 style="aspect-ratio:1.8644067796610169;width:358px;height:auto"}
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2023/10/image-3.png){.wp-image-149
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2023/10/image-3.png){.wp-image-149
 style="aspect-ratio:2.2248995983935744;width:357px;height:auto"}
 
 \\n\\n\\n\\n

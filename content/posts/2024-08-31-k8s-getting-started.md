@@ -27,7 +27,7 @@ swap\...。系统装的是 debian 12。
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2024/08/image-846x1024.png){.wp-image-329
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/08/image.png){.wp-image-329
 style="width:452px;height:auto"}
 
 \\n\\n\\n\\n
@@ -44,7 +44,7 @@ init 的。
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2024/08/image-1-1024x865.png){.wp-image-330
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/08/image-1.png){.wp-image-330
 style="width:452px;height:auto"}
 
 \\n\\n\\n\\n
@@ -66,7 +66,7 @@ style="width:452px;height:auto"}
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2024/08/image-2-1024x350.png){.wp-image-334}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/08/image-2.png)
 
 \\n\\n\\n\\n
 
@@ -99,7 +99,7 @@ nano /var/lib/kubelet/kubeadm-flags.env
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2024/08/image-3-1024x249.png){.wp-image-335}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/08/image-3.png)
 
 \\n\\n\\n\\n
 
@@ -109,7 +109,7 @@ nano /var/lib/kubelet/kubeadm-flags.env
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2024/08/image-4-1024x342.png){.wp-image-336}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/08/image-4.png)
 
 \\n\\n\\n\\n
 
@@ -119,7 +119,7 @@ rel="noreferrer noopener"}
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2024/08/image-5-1024x64.png){.wp-image-337}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/08/image-5.png)
 
 \\n\\n\\n\\n
 

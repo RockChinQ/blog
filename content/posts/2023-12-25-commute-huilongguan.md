@@ -42,7 +42,7 @@ draft: false
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2023/12/image-1024x679.png){.wp-image-221}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2023/12/image.png)
 
 \\n\\n\\n\\n
 

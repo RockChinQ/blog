@@ -47,11 +47,11 @@ data-id="https://q.rkcn.top"}，部署好 消息平台、QChatGPT
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2024/07/image.png){.wp-image-298}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/07/image.png)
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2024/07/image-1.png){.wp-image-299}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/07/image-1.png)
 
 \\n\\n\\n\\n
 
@@ -72,7 +72,7 @@ openai-chat-completions 请求器：
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2024/07/image-2.png){.wp-image-301}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/07/image-2.png)
 
 \\n\\n\\n\\n
 
@@ -85,7 +85,7 @@ openai-chat-completions 请求器：
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2024/07/image-3.png){.wp-image-304}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/07/image-3.png)
 
 \\n\\n\\n\\n
 
@@ -97,7 +97,7 @@ openai-chat-completions 请求器：
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2024/07/image-4.png){.wp-image-305}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/07/image-4.png)
 
 \\n\\n\\n\\n
 

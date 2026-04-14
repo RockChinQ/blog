@@ -16,7 +16,7 @@ draft: false
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2025/05/54b0f2504840a19ea5a563f9818c5bac-1024x344.png){.wp-image-367}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2025/05/54b0f2504840a19ea5a563f9818c5bac.png)
 
 \\n\\n\\n\\n
 
@@ -30,7 +30,7 @@ ta 的建议：给每个模型加一个备注字段。
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2025/05/f05e4172205817a80ba03cfb5789ddfa-1024x982.png){.wp-image-369
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2025/05/f05e4172205817a80ba03cfb5789ddfa.png){.wp-image-369
 style="width:527px;height:auto"}
 
 \\n\\n\\n\\n
@@ -40,7 +40,7 @@ devin：
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2025/05/image-1-1024x814.png){.wp-image-370}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2025/05/image-1.png)
 
 \\n\\n\\n\\n
 
@@ -48,7 +48,7 @@ devin：
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2025/05/be85e178b722952751857d9f0ab6b63f-1024x544.png){.wp-image-371}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2025/05/be85e178b722952751857d9f0ab6b63f.png)
 
 \\n\\n\\n\\n
 

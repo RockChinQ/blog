@@ -20,7 +20,7 @@ draft: false
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2024/01/截屏2024-01-29-23.15.11-846x1024.png){.wp-image-241
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/01/%E6%88%AA%E5%B1%8F2024-01-29-23.15.11.png){.wp-image-241
 style="width:336px;height:auto"}
 
 \\n\\n\\n\\n
@@ -38,7 +38,7 @@ style="width:336px;height:auto"}
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2024/01/image-1.png){.wp-image-242}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/01/image-1.png)
 
 \\n\\n\\n\\n
 
@@ -57,7 +57,7 @@ style="width:336px;height:auto"}
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2024/01/image-2-1024x469.png){.wp-image-244}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/01/image-2.png)
 
 \\n\\n\\n\\n
 
@@ -77,7 +77,7 @@ style="width:336px;height:auto"}
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2024/01/image-3-1024x1006.png){.wp-image-245}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/01/image-3.png)
 
 \\n\\n\\n\\n
 
@@ -97,6 +97,6 @@ PR 进展。
 
 \\n\\n\\n\\n
 
-![](https://rockchin.top/wp-content/uploads/2024/01/wakatime_20240130-849x1024.png){.wp-image-248}
+![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2024/01/wakatime_20240130.png)
 
 \\n
