@@ -32,7 +32,7 @@ enableEmoji = true
 [languages]
   [languages.zh-cn]
     weight = 1
-    copyright = '© {year} RockChinQ'
+    copyright = '© 2023-2026 RockChinQ'
 
 [menu]
   [[menu.main]]
