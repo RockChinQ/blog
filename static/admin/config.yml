@@ -1,0 +1,61 @@
+# Sveltia CMS 配置 —— 数据源始终是 GitHub 仓库本身
+backend:
+  name: github
+  repo: RockChinQ/blog
+  branch: main
+  # OAuth 认证后端（Cloudflare Worker）部署后，把下面替换成它的地址
+  base_url: https://blog-cms-auth.YOUR-WORKERS-SUBDOMAIN.workers.dev
+
+# 本地预览时用代理（可选，跑 `npx @sveltia/cms-proxy-server` 后免 OAuth 直接编辑本地文件）
+# local_backend: true
+
+# 媒体上传目录：放进仓库 static/images/，Hugo 会原样发布到 /images/
+media_folder: static/images
+public_folder: /images
+
+# 默认编辑器用所见即所得，可随时切换 Markdown 源码
+editor:
+  preview: true
+
+collections:
+  - name: posts
+    label: 文章
+    label_singular: 文章
+    description: 博客文章，提交后自动触发 Cloudflare Pages 构建
+    folder: content/posts
+    create: true
+    # 文件名规则，与现有文章一致：YYYY-MM-DD-英文slug.md
+    slug: "{{year}}-{{month}}-{{day}}-{{fields.slug}}"
+    summary: "{{title}} · {{date | date('YYYY-MM-DD')}}"
+    sortable_fields: [date, title]
+    fields:
+      - { name: title, label: 标题, widget: string }
+      - {
+          name: date,
+          label: 日期,
+          widget: datetime,
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "YYYY-MM-DD",
+          picker_utc: false,
+        }
+      - {
+          name: slug,
+          label: URL 短名（英文，决定文件名与链接，如 my-first-post）,
+          widget: string,
+          hint: "只用小写字母、数字、连字符；留空会用标题，但中文标题不适合做 URL",
+        }
+      - {
+          name: draft,
+          label: 草稿（勾选则不发布）,
+          widget: boolean,
+          default: false,
+        }
+      - {
+          name: tags,
+          label: 标签,
+          widget: list,
+          required: false,
+          hint: "可选，对应站点的标签页",
+        }
+      - { name: body, label: 正文, widget: markdown }
