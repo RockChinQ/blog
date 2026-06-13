@@ -3,8 +3,8 @@ backend:
   name: github
   repo: RockChinQ/blog
   branch: main
-  # OAuth 认证后端（Cloudflare Worker）部署后，把下面替换成它的地址
-  base_url: https://blog-cms-auth.YOUR-WORKERS-SUBDOMAIN.workers.dev
+  # OAuth 认证后端（Cloudflare Worker）
+  base_url: https://blog-cms-auth.1010553892.workers.dev
 
 # 本地预览时用代理（可选，跑 `npx @sveltia/cms-proxy-server` 后免 OAuth 直接编辑本地文件）
 # local_backend: true
