@@ -1,5 +1,5 @@
 ---
-title: 用 Mosoo 搭建一个给自己写 SEO 文章的 Agent 吧
+title: 用 Mosoo 搭建一个给它自己写 SEO 文章的 Agent 吧
 date: 2026-07-17
 slug: mosoo-seo-agent-building
 draft: true
