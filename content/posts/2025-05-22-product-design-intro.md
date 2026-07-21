@@ -1,7 +1,8 @@
 ---
-title: "初探产品设计"
+title: 初探产品设计
 date: 2025-05-22
-draft: false
+slug: 2025-05-22-product-design-intro
+draft: true
 ---
 
 最近给 LangBot 发了
@@ -30,4 +31,3 @@ devin：
 ![](https://pub-c7c365991905453481dc9f8834619665.r2.dev/blog/wp-uploads/2025/05/be85e178b722952751857d9f0ab6b63f.png)
 
 看起来优雅多了（确信）
-
