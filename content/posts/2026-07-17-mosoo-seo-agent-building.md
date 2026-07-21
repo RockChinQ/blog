@@ -2,8 +2,11 @@
 title: Mosoo 初体验：搭建一个给它自己写 SEO 文章的 Agent 吧
 date: 2026-07-17
 slug: mosoo-seo-agent-building
-draft: true
-tags: []
+draft: false
+tags:
+  - mosoo
+  - agents
+  - cloud
 ---
 
 最近几个同事搓了个新产品：[Mosoo](https://try.mosoo.ai)。无论是品牌的视觉效果，还是相比于其他 Agent Builder 平台的体验，这个产品都给人一种耳目一新的感觉。
