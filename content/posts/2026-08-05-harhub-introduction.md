@@ -31,3 +31,11 @@ harhub 仍然是强绑定于 GitHub 的，便于团队快速引入，工作区�
 ![](/images/20260805-220215.png)
 
 #### 不只是 starter
+
+做完了这一套之后，就发现 harness-starter / harhub 不只是一个可以根据业务需求生成 harness 骨架的工具了，更可以承担团队内 harness 资产（Skills / MCPs，以及后续会支持的 AGENTS.md 里的规则）的治理平台，接管存储、整理、分发、回流等全流程。
+
+##### 绑定现有资产
+
+即上一章的通过已有 Project 绑定，并入库仓库内已有的 skills。也支持直接上传 zip 文件到 Library，或者通过 npx skills 命令下载来自 skills.sh 的 skills。
+
+![](/images/20260805-221700.png)
