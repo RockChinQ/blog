@@ -1,5 +1,5 @@
 ---
-title: 最近整了个为团队管理 Skills、MCPs 资产的工具
+title: 整了个为团队管理 Skills、MCPs 资产的工具
 date: 2026-08-05
 slug: harhub-introduction
 draft: true
