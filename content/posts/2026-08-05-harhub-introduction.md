@@ -19,3 +19,15 @@ tags:
 目前暂定名为 **harhub**，harness hub 的简称，同样是基于 GitHub 生态去做各类的 skills / MCPs 治理路径。harhub 内部建立 Library 存储资产，而引入 Anchor / Projects 的概念绑定 GitHub 仓库：
 
 ![](/images/20260805-210725.png)
+
+harhub 仍然是强绑定于 GitHub 的，便于团队快速引入，工作区管理员只需要绑定 GitHub App 并导入 GitHub 仓库，harhub 即可自动扫描并索引仓库内任何路径下的 skill 的完整内容（包含 SKILL.md 和相关资源文件）
+
+![](/images/20260805-211551.png)
+
+在 Review 之后，即可添加到 Library 里。
+
+同样的，我们也把 harness-strater 的功能给整合进了 harhub，在 Forge 页面即可简单描述需求、回答跟进问题，内置的 AI 将自动选取相关的 skills 和 MCP，放入 .harness 目录里。
+
+![](/images/20260805-220215.png)
+
+#### 不只是 starter
