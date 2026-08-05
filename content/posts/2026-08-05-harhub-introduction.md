@@ -15,3 +15,7 @@ tags:
 但是做着就发现有很多问题，首先是 harness 资产的来源，以 skills 为例，目前团队里已有的 skills 都散落在各个仓库里，需要让 codex 扫描一遍放入 harness-starter 仓库里才能使用，而存进来的也只是副本，没法随来源更新。其次是新项目所使用的 harness 资产，在来源更新之后也没办法高效地被更新；harness 资产的双向路径都没有被打通。为了解决这些复杂问题，有必要引入一个新的平台来承接团队间 harness 资产管理的工作了。
 
 ![](/images/20260805-210502.png)
+
+目前暂定名为 **harhub**，harness hub 的简称，同样是基于 GitHub 生态去做各类的 skills / MCPs 治理路径。harhub 内部建立 Library 存储资产，而引入 Anchor / Projects 的概念绑定 GitHub 仓库：
+
+![](/images/20260805-210725.png)
