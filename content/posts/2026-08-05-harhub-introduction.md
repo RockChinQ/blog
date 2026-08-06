@@ -39,3 +39,7 @@ harhub 仍然是强绑定于 GitHub 的，便于团队快速引入，工作区�
 即上一章的通过已有 Project 绑定，并入库仓库内已有的 skills。也支持直接上传 zip 文件到 Library，或者通过 npx skills 命令下载来自 skills.sh 的 skills。
 
 ![](/images/20260805-221700.png)
+
+##### 增删改查各个项目的 skills
+
+现在不需要把仓库克隆到本地，即可在 harhub 平台上闭环，添加 skills 到 Project：![](/images/20260806-161852.png)
