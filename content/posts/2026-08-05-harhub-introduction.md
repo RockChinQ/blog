@@ -43,3 +43,27 @@ harhub 仍然是强绑定于 GitHub 的，便于团队快速引入，工作区�
 ##### 增删改查各个项目的 skills
 
 现在不需要把仓库克隆到本地，即可在 harhub 平台上闭环，添加 skills 到 Project：![](/images/20260806-161852.png)
+
+![](/images/20260806-161952.png)
+
+harhub 会自动为此更改提出pr，合并之后即会同步索引到 Project 里。
+
+对应的删除操作也是一样的路径。
+
+##### 资产改动回流
+
+还有一种情况，我们在其他地方（比如本地的 Codex / Claude Code）修改了项目中的 skills 等内容，希望能同步回全局的 Library。首先是 Project 里的
+
+索引，我们在其他地方修改之后，推送到 GitHub，harhub 会自动检测到 skills 文件被修改：
+
+在 Review 更改并且同步之后，即可在全局的 Library 中查看到这个 skill 最新的内容已经被同步到团队资产库。
+
+![](/images/20260806-162802.png)
+
+![](/images/20260806-162527.png)
+
+并且更改也会被版本化记录。
+
+现在开始尝试使用 harhub：[线上环境](https://harhub.rcpd.cc)
+
+开源仓库：[RockChinQ/harhub](https://github.com/RockChinQ/harhub)
