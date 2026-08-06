@@ -44,7 +44,7 @@ harhub 仍然是强绑定于 GitHub 的，便于团队快速引入，工作区�
 
 现在不需要把仓库克隆到本地，即可在 harhub 平台上闭环，添加 skills 到 Project：![](/images/20260806-161852.png)
 
-![](/images/20260806-161952.png)
+![](/images/20260806-163034.png)
 
 harhub 会自动为此更改提出pr，合并之后即会同步索引到 Project 里。
 
