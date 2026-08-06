@@ -56,6 +56,8 @@ harhub 会自动为此更改提出pr，合并之后即会同步索引到 Project
 
 索引，我们在其他地方修改之后，推送到 GitHub，harhub 会自动检测到 skills 文件被修改：
 
+![](/images/20260806-163325.png)
+
 在 Review 更改并且同步之后，即可在全局的 Library 中查看到这个 skill 最新的内容已经被同步到团队资产库。
 
 ![](/images/20260806-162902.png)
